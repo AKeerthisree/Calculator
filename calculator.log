@@ -1,0 +1,14 @@
+11/Apr/2022:16:25:04 +0530 [mainClass.java] [INFO] mainClass Square root function 
+11/Apr/2022:16:25:10 +0530 [mainClass.java] [INFO] mainClass Square root of 9.0:
+11/Apr/2022:16:25:10 +0530 [mainClass.java] [INFO] mainClass 3.0
+11/Apr/2022:16:25:15 +0530 [mainClass.java] [INFO] mainClass Square root function 
+11/Apr/2022:16:25:17 +0530 [mainClass.java] [INFO] mainClass Square root of 78.0:
+11/Apr/2022:16:25:17 +0530 [mainClass.java] [INFO] mainClass 8.831760866327848
+11/Apr/2022:16:25:22 +0530 [mainClass.java] [INFO] mainClass Square root function 
+11/Apr/2022:16:25:26 +0530 [mainClass.java] [ERROR] mainClass Negative number
+11/Apr/2022:16:25:26 +0530 [mainClass.java] [INFO] mainClass Square root of -97.0:
+11/Apr/2022:16:25:26 +0530 [mainClass.java] [INFO] mainClass NaN
+12/Apr/2022:10:19:57 +0530 [mainClass.java] [INFO] mainClass Square root function 
+12/Apr/2022:10:20:02 +0530 [mainClass.java] [ERROR] mainClass Negative number
+12/Apr/2022:10:20:02 +0530 [mainClass.java] [INFO] mainClass Square root of -99.0:
+12/Apr/2022:10:20:02 +0530 [mainClass.java] [INFO] mainClass NaN
