@@ -20,11 +20,13 @@ public class mainClass {
         if(inp<0){
             logger.error("Negative number");
         }
-        logger.info("Square root of "+inp+":");
-        sqrtFun sF=new sqrtFun();
-        double res=sF.sqrt(inp);
-        logger.info(res);
-        System.out.println("Square root of "+inp+": "+res);
+        else {
+            logger.info("Square root of " + inp + ":");
+            sqrtFun sF = new sqrtFun();
+            double res = sF.sqrt(inp);
+            logger.info(res);
+            System.out.println("Square root of " + inp + ": " + res);
+        }
 
     }
 }
