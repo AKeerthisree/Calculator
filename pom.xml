@@ -14,10 +14,9 @@
     </properties>
 
     <build>
-        <pluginManagement>
         <plugins>
             <plugin>
-                <artifactId>maven-assembly-plugins</artifactId>
+                <artifactId>maven-assembly-plugin</artifactId>
                 <version>3.3.0</version>
                 <executions>
                     <execution>
@@ -28,7 +27,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>mainClass.java</mainClass>
+                                    <mainClass>mainClass</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
@@ -39,7 +38,6 @@
                 </executions>
             </plugin>
         </plugins>
-        </pluginManagement>
     </build>
 
     <dependencies>
