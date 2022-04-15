@@ -25,7 +25,7 @@ public class mainClass {
             sqrtFun sF = new sqrtFun();
             double res = sF.sqrt(inp);
             logger.info(res);
-            //System.out.println("Square root of " + inp + ": " + res);
+            System.out.println("Square root of " + inp + ": " + res);
         }
 
     }
