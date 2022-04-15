@@ -12,3 +12,8 @@
 12/Apr/2022:10:20:02 +0530 [mainClass.java] [ERROR] mainClass Negative number
 12/Apr/2022:10:20:02 +0530 [mainClass.java] [INFO] mainClass Square root of -99.0:
 12/Apr/2022:10:20:02 +0530 [mainClass.java] [INFO] mainClass NaN
+12/Apr/2022:16:39:40 +0530 [mainClass.java] [INFO] mainClass Square root function 
+12/Apr/2022:16:40:17 +0530 [mainClass.java] [INFO] mainClass Square root function 
+12/Apr/2022:16:44:03 +0530 [mainClass.java] [INFO] mainClass Square root function 
+12/Apr/2022:16:44:09 +0530 [mainClass.java] [INFO] mainClass Square root of 6.0:
+12/Apr/2022:16:44:09 +0530 [mainClass.java] [INFO] mainClass 2.449489742783178

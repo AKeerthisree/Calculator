@@ -17,8 +17,8 @@
         <pluginManagement>
         <plugins>
             <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-assembly-plugins</artifactId>
+                <version>3.3.0</version>
                 <executions>
                     <execution>
                         <phase>package</phase>
@@ -27,8 +27,7 @@
                         </goals>
                         <configuration>
                             <archive>
-                                <manifest>H
-                                    +
+                                <manifest>
                                     <mainClass>mainClass.java</mainClass>
                                 </manifest>
                             </archive>
