@@ -27,7 +27,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>mainClass</mainClass>
+                                    <mainClass>mainClass.java</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
