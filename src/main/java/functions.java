@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 
 public class functions {
     public void menu(){
-        System.out.println("MENU ");
+        System.out.println("MENU");
         System.out.println("Choose one from below options: ");
         System.out.println("1. Square root Function");
         System.out.println("2. Factorial function");
