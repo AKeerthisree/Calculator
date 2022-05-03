@@ -17,7 +17,8 @@ public class mainClass {
 
         while(true){
             obj.menu();
-
+            sc.next();
+        
             option=sc.nextInt();
             switch (option) {
                 case 1: {
